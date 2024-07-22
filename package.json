@@ -1,0 +1,27 @@
+{
+  "name": "noheadachenode",
+  "version": "1.0.0",
+  "description": "next generation web framework for node.js",
+  "main": "noheadachenode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/ayan-de/NoHeadacheNode)"
+  },
+  "keywords": [
+    "web",
+    "app",
+    "http",
+    "application",
+    "framework",
+    "rest",
+    "restful",
+    "router",
+    "api",
+    "noheadachenode"
+  ],
+  "author": "thisisayande",
+  "license": "ISC"
+}
