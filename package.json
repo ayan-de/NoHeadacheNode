@@ -23,5 +23,9 @@
     "noheadachenode"
   ],
   "author": "thisisayande",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^11.7.0",
+    "supertest": "^7.1.1"
+  }
 }
