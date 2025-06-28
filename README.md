@@ -37,3 +37,4 @@ Error Isolation - Bad route files don't crash the server
 Clear Mapping - Easy to find route handler for any URL
 
 Cors Error auto handling
+Auto Logger
