@@ -27,3 +27,11 @@ Dynamic Routing - URL parameters extracted automatically
 Error Handling - Graceful error responses, no server crashes
 File Streaming - Efficient file serving without memory issues
 Chainable APIs - Clean, readable code with method chaining
+
+Convention over Configuration - File structure defines routes
+Automatic Discovery - No manual route registration needed
+Hot Reloading - Changes picked up in development
+Nested Structure - Organize complex APIs logically
+Multiple HTTP Methods - One file can handle GET, POST, PUT, DELETE
+Error Isolation - Bad route files don't crash the server
+Clear Mapping - Easy to find route handler for any URL
