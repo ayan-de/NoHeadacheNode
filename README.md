@@ -17,3 +17,13 @@ Installation is done using the
 ```console
 $ npm install noheadachenode
 ```
+
+# Features
+
+Automatic Request Parsing - No manual JSON.parse() or URL parsing
+Flexible Response Methods - Multiple ways to send responses
+Middleware Support - Add cross-cutting concerns (auth, logging, CORS)
+Dynamic Routing - URL parameters extracted automatically
+Error Handling - Graceful error responses, no server crashes
+File Streaming - Efficient file serving without memory issues
+Chainable APIs - Clean, readable code with method chaining
