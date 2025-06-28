@@ -35,3 +35,5 @@ Nested Structure - Organize complex APIs logically
 Multiple HTTP Methods - One file can handle GET, POST, PUT, DELETE
 Error Isolation - Bad route files don't crash the server
 Clear Mapping - Easy to find route handler for any URL
+
+Cors Error auto handling
